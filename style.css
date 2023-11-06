@@ -1,15 +1,19 @@
-body{
+body
+
+{
 background-color: blanchedalmond;
 }
-p{
+
+p
+
+{
 color:blue;
 font-weight: 900;
 background-color: blanchedalmond;
+}
 
-}
-h1{
-    background-color: blueviolet;
-}
-div{
-    background-color: ;
+div
+
+{
+    max-width: 750px;
 }
